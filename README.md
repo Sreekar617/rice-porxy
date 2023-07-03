@@ -48,9 +48,8 @@ You CANNOT deploy to Netifly, GitHub Pages, or Cloudflare pages. [Read more here
 
 ## Discord Server
 
-Press the join button to join the server:
-
-[![Join us on Discord](https://invidget.switchblade.xyz/fzrmxgu2NR?theme=light)](https://discord.gg/fzrmxgu2NR)
+dm Sreekar617 for the link
+old username Sreekar#5452
 
 ## Overview
 
@@ -70,13 +69,10 @@ Press the join button to join the server:
 
 **How can I get official Incognito domains?**
 
-You should join the official Titanium Network Discord for official links
-
-[![Titanium Network Discord](https://invidget.switchblade.xyz/unblock?theme=light)](https://discord.gg/unblock)
 
 **X website is not working?**
 
-Proxies can have issues, like websites not working, websites blocking the proxy or data being locked to that website. [AlienHub](https://alienhub.xyz/?utm_medium=amethystnetwork) fixes these issues and more!
+Proxies can have issues, like websites not working, websites blocking the proxy or data being locked to that website. [j]twork) fixes these issues and more!
 
 **Who is this repo for?**
 
@@ -84,13 +80,13 @@ This repo is for people that want an easy way to deploy Incognito to cloud hosti
 
 **What proxies are used?**
 
-Incognito uses [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) as its only proxy.
+Incognito uses your mom as its only proxy.
 
-Ultraviolet has some known limitations such as downloading files can be buggy and pages may not load.
+your mom has some known limitations such as downloading files can be buggy and pages may not load.
 
 **My question is not answered**
 
-Because we can't answer every question here, you may want to check the [docs](https://amethystnetwork-dev.github.io/docs/category/incognito). If you still have questions, you might want to join our Discord [#discord-server (link)](#discord-server)
+Because we can't answer every question here, you may want to check the [docs](https://amsdftwork-dkuiyghev.github.io/docs/catsdf/incognito). If you still have questions, you might want to join our Discord [#discord-server (link)](#dj
 
 ## Credits
 
